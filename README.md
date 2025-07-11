@@ -1,2 +1,2 @@
 # data-analyst
-these are the codes of data analyst
+These are the basic  codes related to data analyst
